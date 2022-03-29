@@ -1,0 +1,90 @@
+Python Training March 2021
+==========================
+
+Toby Dussek 
+
+Monday
+> Welcome
+> overview of Python 3 (and Python 2)
+> where to write code: immediate and module
+> print() and input() 
+> maths operators and data types
+> immutable strings
+> square bracket notation for iterable collections
+- memory efficiency
+> identifiers: letters, numbers, underscore, can't start with a digit
+  use camelCase or snake_case for everyday naming.
+  use PascalCase for Classes
+  ALL_CAPS is often used to indicate a constant
+  avoid kebab-case since it looks like mathematical subtraction
+- leading underscores sometimes matter in Python
+> boolean True and False
+> type and type conversion
+> string manipulation
+> the if statement for conditional logic
+> loops
+> Python indent syntax
+> Lists and Tuples and nesting collections
+> while loop and break, continue, pass
+> review exercise
+> dictionaries (non-numeric indexed iterable collections)
+- more about import, pip, libraries and modules
+> very big numeric values
+> looping with for
+- range, generators and comprehensions
+- set comprehension, list compresension
+- args, kwargs
+
+Questions:
+- Does Python automatically switch between limited precision and arbitrary precision representation?
+
+Tuesday
+> quick review of where we got to
+  (all code exists here: https://github.com/onionmccabbage/pythonTrainingMar2021
+> what we mean by shallow ref (rather than deep ref)
+> get back with a better definition of this
+> pip and other kinds of Python
+> sometimes we need to be choosy where we run commands e.g. in the actual python folder or a virtual environment
+> functions
+> while loops
+> virtual environments - virtualenv (old) and venv (new)
+> strings with triple quotes
+> docstring
+> modules __init__.py and __name__ == '__main__'
+> review exercise
+> File input and output
+> exception handling
+> pip install requests
+> API access over http (using the requests library)
+
+Wednesday
+> moving from Py2 to Py3
+  https://docs.python.org/3/howto/pyporting.html
+> PEP8 style guide
+> how we carry out unit tests on modules?
+> global and local scope 
+> decorators
+> string formatting syntax
+> data modeling structures
+> Objects and Classes (OOP)
+> inheritance
+> intrinsic attributes: __doc__ etc.
+> documentation strings (docstring) for classes
+> special operators and overriding
+> review exercise
+> the order of decorators matters...
+> debug tools
+> command line debug
+  https://docs.python.org/3/library/pdb.html
+> performance
+> the ternary operator
+> where to go from here (exercises)
+  https://pynative.com/python-exercises-with-solutions/
+> end of course feedback 
+  https://login.microsoftonline.com/common/oauth2/authorize?response_type=id_token+token&client_id=3e62f81e-590b-425b-9531-cad6683656cf&resource=https%3A%2F%2Fservice.powerapps.com%2F&redirect_uri=https%3A%2F%2Fapps.powerapps.com%2Fauth%2Fauthframe&state=6e6f3cc2-763f-4d12-9e85-3387ebc9897b%3Bhttps%253A%252F%252Fapps.powerapps.com%252Fplay%252F17579985-153c-4727-b1f4-8b53e48b5e72%253FtenantId%253D92e84ceb-fbfd-47ab-be52-080c6b87953f%253FType%253DILT%2526ID%253DLZU1500463%2526OID%253D491039%2526Title%253DProgramming%252520in%252520Python%2526Owner%253DSumit%252520Lakhwan&client-request-id=33c0879c-2731-45c5-a59d-c448db66ae6f&x-client-SKU=Js&x-client-Ver=1.0.13&nonce=9851c895-c11a-4b34-b642-36ad62ee7cc2
+> all my examples available for download
+
+Links
+- Python official site https://python.org
+- PEP8 style guiide https://www.python.org/dev/peps/pep-0008/
+- online Python interpreter https://repl.it/languages/Python3

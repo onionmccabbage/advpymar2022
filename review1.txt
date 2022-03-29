@@ -1,4 +1,4 @@
-Advanced Python Review Exercise 1 until about 2:25 ish then show-and-tell
+Advanced Python Review Exercise 1 until about 2:25-ish then show-and-tell
 =================================
 Write a function to find the square root of a positive integer
   sqrt = n**0.5 # returns square root of n

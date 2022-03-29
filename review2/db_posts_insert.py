@@ -13,8 +13,9 @@ def main():
 
     # find the next id
     st_count_posts = 'SELECT COUNT(*) FROM posts'
+    st_num = 'SELECT MAX(id) FROM POSTS'
     num_posts = curs.execute(st_count_posts).fetchall()[0][0]
-    # print('There are currently {} posts'.format(num_posts))
+    print('There are currently {} posts'.format(num_posts))
 
     st = '''
     INSERT INTO posts

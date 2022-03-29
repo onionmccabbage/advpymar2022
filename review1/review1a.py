@@ -1,10 +1,11 @@
 from my_decorators import show_args
+from my_decorators import show_intrinsics
 
 def root(x):
     return x**0.5 # anything to the power of 0.5 is the square root
 
 
-@show_args
+@show_intrinsics
 def mapRoots(start, number):
     '''
     Return the square root of integers between min and max
