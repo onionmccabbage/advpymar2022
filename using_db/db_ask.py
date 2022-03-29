@@ -15,7 +15,11 @@ def readDB():
     finally:
         conn.close()
     # explore the returned rows
-    print(rows) # a list of tuples for each data row
+    # print(rows) # a list of tuples for each data row
+    # iterate over the list to show each creature in a nice way
+    for animal in rows:
+        # using index numbers lets us say which value goes where, and repeat values.
+        print('we have {2} (yes {2}) {0} costing {1:0.2f}'.format(animal[0], animal[1], animal[2]))
 
 if __name__ == '__main__':
     readDB()
