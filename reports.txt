@@ -1,0 +1,24 @@
+Description: overcast clouds Temperature: 10°C in Galway
+The wind speed is 4.77 coming from 2° 
+Description: overcast clouds Temperature: 9°C in Athlone
+The wind speed is 4.39 coming from 39° 
+Description: overcast clouds Temperature: 10°C in Galway
+The wind speed is 4.77 coming from 2° 
+Description: broken clouds Temperature: 5°C in Hull
+The wind speed is 7.2 coming from 60° 
+Description: overcast clouds Temperature: 8°C in Athlone
+The wind speed is 4.62 coming from 43° 
+Description: overcast clouds Temperature: 9°C in Galway
+The wind speed is 5.62 coming from 4° 
+Description: overcast clouds Temperature: 8°C in Athlone
+The wind speed is 4.62 coming from 43° 
+Description: overcast clouds Temperature: 9°C in Galway
+The wind speed is 5.62 coming from 4° 
+Description: broken clouds Temperature: 5°C in Hull
+The wind speed is 7.2 coming from 60° 
+Description: overcast clouds Temperature: 15°C in Canberra
+The wind speed is 6.69 coming from 190° 
+Description: scattered clouds Temperature: 9°C in Berlin
+The wind speed is 3.13 coming from 106° 
+Description: broken clouds Temperature: 12°C in Madrid
+The wind speed is 4.12 coming from 10° 
