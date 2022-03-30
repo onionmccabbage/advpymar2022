@@ -1,0 +1,5 @@
+this gets written to our log file
+here is some output we need to capture
+there are several line
+each redirected in turn
+by our decorated function
